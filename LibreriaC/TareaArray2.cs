@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibreriaC
 {
-    internal class Tarea Array2
+    internal class TareaArray2
     {
         void Main(string[] args)
         {
